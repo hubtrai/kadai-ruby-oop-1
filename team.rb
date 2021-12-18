@@ -18,20 +18,20 @@ class Team
   end
 end
   
-  giants = Team.new('Giants',67,45,8)
-  giants.show_team_result
+  giants_team = Team.new('Giants',67,45,8)
+  giants_team.show_team_result
   
-  tigers = Team.new('Tigers',60,53,7)
-  tigers.show_team_result
+  tigers_team = Team.new('Tigers',60,53,7)
+  tigers_team.show_team_result
   
-  dragons = Team.new('Dragons',60,55,5)
-  dragons.show_team_result
+  dragons_team = Team.new('Dragons',60,55,5)
+  dragons_team.show_team_result
   
-  bayStars = Team.new('BayStars',56,58,6)
-  bayStars.show_team_result
+  bayStars_team = Team.new('BayStars',56,58,6)
+  bayStars_team.show_team_result
   
-  carp = Team.new('Carp',52,56,12)
-  carp.show_team_result
+  carp_team = Team.new('Carp',52,56,12)
+  carp_team.show_team_result
   
-  swallows = Team.new('Swallows',41,69,10)
-  swallows.show_team_result
+  swallows_team = Team.new('Swallows',41,69,10)
+  swallows_team.show_team_result
